@@ -39,7 +39,7 @@ const Projects = () => {
       description: 'A Fitness App containing different targeted Muscle Exercises',
       image: '/images/proj4.jpg',
       tech: ['React', 'Material UI', 'Exercises APIs'],
-      github: '#',
+      github: 'https://github.com/Tanveer0349/Fitness-Exercise-App.git',
       live: '#',
     },
   ]
